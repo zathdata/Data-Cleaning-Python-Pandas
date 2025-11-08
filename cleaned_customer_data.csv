@@ -1,0 +1,105 @@
+order_id,customer_id,name,age,signup_date,city,purchase_amount,vip,comments,signup_year
+1,CUST0103,Bob,35,,New York,300.0,Yes,bad,
+2,CUST0093,Charlie,40,2023-01-02,New York,291.78,No,ok,2023
+3,CUST0015,Charlie,40,2023-01-02,New York,100.0,No,,2023
+5,CUST0072,Alice,35,2023-01-02,Los Angeles,291.78,No,,2023
+6,CUST0021,Bob,35,2023-01-01,Los Angeles,100.0,No,good,2023
+7,CUST0103,Bob,40,,Los Angeles,1000.0,Yes,ok,
+8,CUST0122,Alice,27,,Los Angeles,1000.0,No,good,
+9,CUST0075,Alice,40,2023-01-02,,100.0,Yes,ok,2023
+10,CUST0088,Bob,,2023-01-01,New York,291.78,No,,2023
+11,CUST0117,Bob,25,,Los Angeles,291.78,No,,
+12,CUST0100,Alice,50,,New York,291.78,No,,
+14,CUST0131,Bob,30,2023-01-01,New York,291.78,Yes,,2023
+15,CUST0053,Bob,50,,New York,1000.0,Yes,,
+16,CUST0002,Bob,25,2023-03-15,New York,300.0,No,good,2023
+17,CUST0088,Bob,,,Los Angeles,291.78,No,,
+18,CUST0038,Bob,,2023-01-02,New York,291.78,Yes,,2023
+20,CUST0021,Bob,27,2023-03-15,New York,1000.0,No,bad,2023
+21,CUST0058,Bob,35,2023-01-01,,300.0,No,bad,2023
+22,CUST0022,Alice,27,2023-01-02,New York,200.0,No,bad,2023
+23,CUST0089,Charlie,,,New York,200.0,Yes,ok,
+24,CUST0049,Alice,40,2023-01-02,New York,300.0,Yes,bad,2023
+25,CUST0059,Charlie,25,2023-01-02,Los Angeles,1000.0,Yes,,2023
+27,CUST0051,Alice,25,,Los Angeles,300.0,Yes,,
+28,CUST0108,Charlie,,2023-01-02,New York,291.78,No,ok,2023
+29,CUST0055,Bob,,2023-03-15,Los Angeles,291.78,Yes,bad,2023
+30,CUST0064,Alice,27,,New York,200.0,No,bad,
+31,CUST0131,Alice,,,Los Angeles,291.78,Yes,bad,
+33,CUST0135,Alice,35,,New York,200.0,No,good,
+34,CUST0021,Bob,35,,Los Angeles,291.78,Yes,,
+35,CUST0073,Alice,35,,Los Angeles,291.78,No,good,
+36,CUST0018,Bob,40,,New York,291.78,No,bad,
+37,CUST0132,Bob,50,,Los Angeles,1000.0,Yes,bad,
+38,CUST0089,Alice,,,New York,100.0,No,,
+39,CUST0060,Alice,50,,Los Angeles,1000.0,Yes,,
+40,CUST0014,Charlie,25,,New York,100.0,No,good,
+41,CUST0009,Bob,50,2023-03-15,New York,300.0,No,,2023
+42,CUST0090,Charlie,40,,New York,291.78,No,good,
+43,CUST0053,Alice,25,,New York,291.78,Yes,,
+45,CUST0084,Bob,40,,New York,100.0,No,,
+46,CUST0092,Bob,,2023-01-02,New York,1000.0,No,,2023
+47,CUST0111,Alice,50,2023-03-15,,291.78,No,ok,2023
+48,CUST0008,Alice,40,2023-01-01,Los Angeles,100.0,No,,2023
+49,CUST0035,Alice,35,2023-03-15,Los Angeles,100.0,No,ok,2023
+50,CUST0081,Bob,,,New York,100.0,No,,
+52,CUST0104,Charlie,,2023-01-02,New York,291.78,Yes,,2023
+54,CUST0002,Bob,30,2023-01-02,New York,200.0,No,ok,2023
+55,CUST0134,Charlie,30,,,291.78,Yes,,
+56,CUST0054,Charlie,,2023-01-01,New York,291.78,Yes,good,2023
+57,CUST0106,Charlie,35,,New York,291.78,Yes,,
+58,CUST0004,Alice,,,,291.78,Yes,bad,
+59,CUST0054,Bob,40,2023-01-01,Los Angeles,1000.0,Yes,ok,2023
+60,CUST0146,Alice,25,2023-01-02,New York,291.78,No,good,2023
+62,CUST0014,Alice,25,2023-01-01,Los Angeles,291.78,No,ok,2023
+63,CUST0095,Alice,,2023-01-02,New York,300.0,Yes,,2023
+64,CUST0048,Bob,40,2023-01-01,New York,291.78,Yes,,2023
+65,CUST0015,Bob,50,,New York,291.78,Yes,bad,
+66,CUST0040,Bob,50,,Los Angeles,291.78,No,,
+67,CUST0082,Charlie,27,2023-01-01,Los Angeles,300.0,No,ok,2023
+68,CUST0111,Alice,35,,Los Angeles,300.0,No,good,
+69,CUST0053,Alice,25,,New York,291.78,No,,
+70,CUST0024,Alice,25,,New York,100.0,No,ok,
+71,CUST0124,Bob,35,2023-03-15,Los Angeles,200.0,No,ok,2023
+72,CUST0041,Alice,,,New York,1000.0,No,bad,
+73,CUST0015,Charlie,27,2023-01-02,Los Angeles,100.0,Yes,,2023
+74,CUST0045,Alice,,2023-03-15,,100.0,Yes,,2023
+76,CUST0089,Alice,,2023-01-01,New York,1000.0,Yes,,2023
+77,CUST0071,Alice,35,,New York,1000.0,No,good,
+78,CUST0009,Alice,,,Los Angeles,100.0,No,,
+79,CUST0088,Bob,50,,Los Angeles,291.78,Yes,,
+82,CUST0063,Bob,25,,New York,300.0,No,good,
+83,CUST0139,Charlie,25,,Los Angeles,1000.0,Yes,,
+84,CUST0081,Alice,,2023-01-02,New York,100.0,Yes,bad,2023
+85,CUST0136,Alice,35,2023-01-02,Los Angeles,300.0,Yes,bad,2023
+86,CUST0033,Alice,40,,Los Angeles,291.78,Yes,bad,
+87,CUST0123,Bob,35,,Los Angeles,200.0,Yes,,
+89,CUST0041,Bob,25,,Los Angeles,291.78,No,,
+90,CUST0028,Bob,,2023-01-02,Los Angeles,291.78,No,,2023
+91,CUST0135,Alice,,2023-01-02,New York,291.78,No,good,2023
+92,CUST0072,Charlie,35,,New York,200.0,No,good,
+93,CUST0012,Bob,,,,291.78,No,,
+94,CUST0033,Charlie,,2023-01-02,New York,291.78,Yes,bad,2023
+95,CUST0048,Charlie,50,,Los Angeles,200.0,No,bad,
+96,CUST0062,Bob,25,2023-01-02,New York,200.0,Yes,ok,2023
+97,CUST0037,Charlie,,2023-01-02,Los Angeles,291.78,Yes,,2023
+98,CUST0099,Alice,35,2023-03-15,New York,200.0,No,,2023
+99,CUST0104,Charlie,25,2023-01-02,New York,291.78,Yes,good,2023
+100,CUST0035,Alice,40,2023-01-01,New York,291.78,No,ok,2023
+101,CUST0101,Alice,,,Los Angeles,291.78,No,ok,
+102,CUST0131,Charlie,27,,New York,100.0,Yes,,
+103,CUST0001,Bob,25,,New York,291.78,No,good,
+104,CUST0005,Charlie,35,2023-01-02,New York,300.0,No,,2023
+106,CUST0103,Bob,,,New York,1000.0,Yes,ok,
+107,CUST0027,Alice,,2023-03-15,Los Angeles,100.0,No,ok,2023
+108,CUST0137,Bob,35,,,100.0,Yes,,
+109,CUST0015,Bob,50,,,100.0,Yes,,
+110,CUST0090,Alice,50,2023-01-02,Los Angeles,291.78,No,ok,2023
+111,CUST0042,Charlie,30,2023-03-15,New York,291.78,No,,2023
+112,CUST0124,Charlie,,,New York,291.78,No,good,
+113,CUST0063,Charlie,27,2023-01-01,New York,291.78,Yes,bad,2023
+114,CUST0096,Alice,30,2023-01-01,New York,291.78,Yes,ok,2023
+115,CUST0052,Alice,30,,New York,291.78,Yes,,
+117,CUST0132,Alice,50,2023-03-15,Los Angeles,300.0,No,,2023
+118,CUST0143,Bob,25,,Los Angeles,291.78,Yes,,
+120,CUST0036,Bob,,2023-03-15,,200.0,No,ok,2023
